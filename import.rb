@@ -12,7 +12,7 @@ SRC_NOTES = VAULT.join("Languages")
 SRC_ATTACH = VAULT.join("Attachments")
 
 DEST_ROOT = Pathname.new(Dir.pwd)
-DEST_NOTES = DEST_ROOT.join("Languages")
+DEST_NOTES = DEST_ROOT.join("notes")
 DEST_ASSETS = DEST_ROOT.join("assets")
 
 # Add more extensions if you use them
