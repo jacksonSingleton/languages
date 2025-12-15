@@ -23,7 +23,7 @@
 - Past
 	- お弁当を買いたかったから、コンビニに行きました
 		- I went to the convenience store, because I wanted to buy a boxed lunch.
-- If what you're wanting has been entertained for some time, you can say something more like "have wanted to" using 対と思っています instead of たいです
+- If what you're wanting has been entertained for some time, you can say something more like "have wanted to" using 対と思っています instead of たいでたがってす
 	- 留学したいと思っています
 		- I've wanted to study abroad.
 - たいです is usually not used to describe the desires of others. Others' wishes are usually reported as quotations, observations, or guesses. 
@@ -31,7 +31,7 @@
 	- メアリさんはチベットに行きたいと言っていました
 		- Mary said she wanted to go to Tibet
 - To describe your observation that someone wants to do something, you must use たがっている instead of たい.
-	- If a verb takes を then たがっている will always retain を instead of the optional が like we had with 〜たい
+[]()	- If a verb takes を then たがっている will always retain を instead of the optional が like we had with 〜たい
 	- メアリーさんは着物を着たがっています
 		- (It seems) Mary wants to wear a kimono
 - たがる indicates "It seems that" based on present behaviors
