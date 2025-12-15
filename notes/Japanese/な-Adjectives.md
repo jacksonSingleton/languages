@@ -8,8 +8,6 @@ date: 2025-05-24
 ---
 # [[な-Adjectives Notes]]
 
-![rw-book-cover](assets/header-1280x.jpg)
-
 ## Metadata
 - Author: [[Tofugu]]
 - Full Title: な-Adjectives

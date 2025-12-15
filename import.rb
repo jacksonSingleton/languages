@@ -13,7 +13,7 @@ SRC_ATTACH = VAULT.join("Attachments")
 
 DEST_ROOT = Pathname.new(Dir.pwd)
 DEST_NOTES = DEST_ROOT.join("notes")
-DEST_ASSETS = DEST_ROOT.join("assets")
+DEST_ASSETS = DEST_ROOT.join("note-assets")
 
 # Add more extensions if you use them
 ATTACH_EXT = /\.(png|jpe?g|gif|svg|webp|pdf|mp3|m4a|wav)$/i
