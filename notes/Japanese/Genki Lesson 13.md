@@ -41,12 +41,16 @@ tags:
 >[!example] Examples
 >このリンゴは美味しそうです
 >*This apple looks delicious.*
+>
 >---
-> 明日は天気が良さそうです。
-> *It looks like the weather will be fine tomorrow.*
+>
+>明日は天気が良さそうです。
+>*It looks like the weather will be fine tomorrow.*
+>
 >---
-> メアリーさんは元気そうでした。
-> Mary looked like she was doing well.
+>
+>メアリーさんは元気そうでした。
+>*Mary looked like she was doing well.*
 - そうです can be combined with negative adjectives too
 
 ### い-Negative
@@ -72,7 +76,9 @@ Or as a call and response:
 >[!example]
 >A: この本、面白かったですよ。
 >B: じゃあ、読んでみます。
->---
+> 
+> ---
+> 
 >*A: This book was interesting.*
 >*B: Okay, I'll have to take a look at it*
 
