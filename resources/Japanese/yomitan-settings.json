@@ -1,6 +1,6 @@
 {
     "version": 0,
-    "date": "2025-12-15 18:14:34",
+    "date": "2025-12-15 19:10:11",
     "url": "chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/",
     "manifest": {
         "action": {
@@ -408,7 +408,8 @@
                         "enable": true,
                         "server": "http://127.0.0.1:8765",
                         "tags": [
-                            "yomitan"
+                            "yomitan",
+                            "japanese"
                         ],
                         "screenshot": {
                             "format": "png",
